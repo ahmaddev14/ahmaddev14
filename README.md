@@ -11,6 +11,9 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
+- 💬 Ask me about **Reactjs, Nextjs, n8n, Python.**
+
+- 📫 How to reach me **ahmadasif01412@gmail.com**
 
 - ⚡ Fun fact **I know very secret languages only other software engineers understand 💻**
 
