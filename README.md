@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
  
-- 💬 Ask me about **Reactjs, Nextjs, n8n, Python.**
+- 💬 Ask me about **Reactjs, Nextjs, Python.**
 
 - 📫 How to reach me ahmadasif01412@gmail.com
 
