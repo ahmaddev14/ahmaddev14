@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ahmadasif01412@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact I know very secret languages only other software engineers understand 💻**
+- **⚡ Fun fact I know very secret languages only other software engineers understand 💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
